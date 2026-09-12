@@ -1,0 +1,6 @@
+{
+  "name": "Shahinshah Tikka House",
+  "description": "Authentic Pakistani BBQ and tandoori grill restaurant located at Stadium Food Street, Shamsabad, Rawalpindi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
